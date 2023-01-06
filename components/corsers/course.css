@@ -1,0 +1,27 @@
+.cors{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+    box-shadow: 0 2px 6px rgb(8, 2, 2);
+    margin: 10px;
+}
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+
+}
+.inffo{
+    margin: 22px;
+}
+button{
+    background-color: brown;
+    width: 80px;
+    height: 30px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+
+}
